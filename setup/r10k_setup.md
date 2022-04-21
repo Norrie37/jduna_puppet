@@ -42,7 +42,7 @@ vim /etc/puppetlabs/r10k/r10k.yaml
 
 :sources:
         :my-org:
-                remote: 'https://github.com/Norrie37/td_puppet.git'
+                remote: 'https://github.com:Norrie37/jduna_puppet.git'
                 basedir: '/etc/puppetlabs/code/environments'
 ```
 
