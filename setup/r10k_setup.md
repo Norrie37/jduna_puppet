@@ -24,7 +24,7 @@ gem
 gem install r10k
 ```
 
-## 2 Setting up r10k to point to my remote repo
+## 2 - Setting up r10k to point to my remote repo
 
 Create home directory for r10k in puppet master:
 
@@ -46,7 +46,7 @@ vim /etc/puppetlabs/r10k/r10k.yaml
                 basedir: '/etc/puppetlabs/code/environments'
 ```
 
-## 3 Test Puppet by doing an agent run
+## 3 - Test Puppet by doing an agent run
 
 Do initial puppet run on node
 
